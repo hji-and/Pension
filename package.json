@@ -2,7 +2,7 @@
   "name": "the-joeun-pension",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/hji-and/Pension.git",
+  "homepage": "https://github.com/hji-and/Pension/",
   "type": "module",
   "scripts": {
     "dev": "vite",
